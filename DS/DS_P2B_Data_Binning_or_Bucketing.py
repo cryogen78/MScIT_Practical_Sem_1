@@ -1,3 +1,4 @@
+
 # Data Binning or Bucketing
 import numpy as np
 import matplotlib.mlab as mlab

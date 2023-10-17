@@ -1,3 +1,5 @@
+
+# Averaging of data 
 import pandas as pd
 ######################## AVERAGING ###############################
 InputFileName = 'IP_DATA_CORE.csv'

@@ -1,3 +1,4 @@
+
 #Program to demonstrate fixer utilities
 '''Removing leading or lagging spaces from a data entry'''
 print("#Removing leading or lagging spaces from a data entry")

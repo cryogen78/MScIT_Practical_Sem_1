@@ -1,4 +1,4 @@
-# Method 1
+#####################______Methos_1______##########################
 
 class McCullochPittsNeuron:
     def __init__(self, weights, threshold):
@@ -20,7 +20,8 @@ print("ANDNOT(0, 1) =", ANDNOT(0, 1))
 print("ANDNOT(1, 0) =", ANDNOT(1, 0))
 print("ANDNOT(1, 1) =", ANDNOT(1, 1))
 
-# Methos 2
+
+######################______Methos_2______##########################
 def mccullock_pitts_andnot(A,B):
     w1=1
     w2=-1

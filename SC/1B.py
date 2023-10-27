@@ -1,6 +1,6 @@
-#Calculate the o/p of neural network of both Binary and Bipolar
+# B:- Calculate the o/p of neural network of both Binary and Bipolar
 
-n=int(input("Enter the number of input neurons"))
+n=int(input("Enter the number of input neurons: "))
 w=[]
 x=[]
 for i in range(0,n):
@@ -14,4 +14,3 @@ y=0.0
 for i in range(0,n):
     y=y+(w[i]*x[i])
 print("The net input is: ",round(y,3))
-

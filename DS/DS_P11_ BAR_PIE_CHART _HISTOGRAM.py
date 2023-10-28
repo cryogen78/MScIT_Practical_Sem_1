@@ -17,7 +17,7 @@ plt.pie(y)
 plt.show()
 
 
-###########PIE CHART WITH LABLE############
+###########PIE CHART WITH LABEL############
 import matplotlib.pyplot as plt
 labels = 'apple', 'banana', 'cherry', 'durian', 'elderberries', 'figs', 'grapes'
 sizes= [32, 20, 15, 10, 10, 8, 5]

@@ -24,7 +24,7 @@ for c in range(img.shape[2]):
 
 
 # 02
-    import sys
+import sys
 import os
 import matplotlib.pyplot as plt
 from PIL import Image
@@ -57,9 +57,6 @@ sTitle = "Unchanges"
 plt.title(sTitle)
 imgplot = plt.imshow(img)
 
-
-
-# 04
 from PIL import Image
 import matplotlib.pyplot as plt
 # Load the image

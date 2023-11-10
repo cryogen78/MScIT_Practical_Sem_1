@@ -1,3 +1,7 @@
+# Practical No.5A
+# Aim: Write a program for Hopfield Network.
+# Source code:
+
 import numpy as np
 
 class HopfieldNetwork:
@@ -41,5 +45,4 @@ if __name__ == "__main__":
         print("Original Pattern:")
         print(pattern.reshape(3, 3))
         print("Recalled Pattern:")
-        print(recalled_pattern.reshape(3, 3))
-        print("\n")
+        print(recalled_pattern.reshape(3, 3),"\n")
